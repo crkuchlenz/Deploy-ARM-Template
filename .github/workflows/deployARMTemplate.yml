@@ -3,7 +3,7 @@ name: Deploy ARM Template
 on: 
   push:
     branches:
-      - master
+      - main
 
 env:
   AZURE_SUBSCRIPTION_ID: a14c9920-1d82-46d1-bb62-b0a4b0d7e396
