@@ -7,7 +7,7 @@ on:
 
 env:
   AZURE_SUBSCRIPTION_ID: a14c9920-1d82-46d1-bb62-b0a4b0d7e396
-  AZURE_RESOURCE_GROUP: GitHubActioExercise-rg
+  AZURE_RESOURCE_GROUP: GitHubActionExercise-rg
   
 jobs:
   deploy-virtual-network-template:
